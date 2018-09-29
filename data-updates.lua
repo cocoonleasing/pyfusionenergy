@@ -1,4 +1,4 @@
-require("stdlib/data/data").create_data_globals()
+require("__stdlib__/stdlib/data/data").create_data_globals()
 
 if mods["boblibrary"] then
     require("prototypes/updates/bob-updates")
